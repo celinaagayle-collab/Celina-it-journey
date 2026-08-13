@@ -1,0 +1,6 @@
+name=input("what is your name?")
+Age= input("how old are you? ")
+carrer=input("what IT career insterests you?")
+print("hello", name)
+print("you are", Age, "years old.")
+print("your IT goal is to become a",carrer )

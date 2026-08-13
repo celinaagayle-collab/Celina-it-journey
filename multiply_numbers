@@ -1,0 +1,4 @@
+def multiply_numbers (a, b):
+    return (a * b)
+answer= multiply_numbers (4, 6)
+print (answer)
